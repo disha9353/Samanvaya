@@ -1,0 +1,16 @@
+﻿src/components/maps/ItemsMap.tsx(112,24): error TS2304: Cannot find name 't'.
+src/components/qr/QRScanner.tsx(61,54): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(47,62): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(50,10): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(77,41): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(81,16): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(86,135): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(102,16): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(122,42): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(197,62): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(200,10): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(216,89): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(234,18): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(249,52): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(254,22): error TS2304: Cannot find name 't'.
+src/pages/CampaignDetailsPage.tsx(264,30): error TS2304: Cannot find name 't'.
